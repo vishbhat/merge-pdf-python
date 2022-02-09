@@ -1,5 +1,11 @@
 # merge-pdf-python
 Python code to merge multiple pdf files
+* *Date Created*: 09 FEB 2022
+* *Last Modification Date*: 09 FEB 2022
+
+## Authors
+
+* [Vishwanath Hosdurga Suresh](mailto: vishubhat239@gmail.com)
 
 # Dependencies
 1. PyPDF2
