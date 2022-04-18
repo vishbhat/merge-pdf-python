@@ -5,7 +5,7 @@ Python code to merge multiple pdf files
 
 ## Authors
 
-* [Vishwanath Hosdurga Suresh](mailto: vishubhat239@gmail.com)
+* [Vishwanath Hosdurga Suresh](mailto:vishubhat239@gmail.com)
 
 # Dependencies
 1. PyPDF2
